@@ -1,7 +1,3 @@
-¡Gracias por compartir el archivo CSS! Aquí tienes el README actualizado para incluir los detalles del estilo:
-
----
-
 # Monumental Cafe Menu
 
 This is a simple static webpage displaying the menu of **Monumental Cafe**, featuring a selection of coffee and desserts with their respective prices. The page is built using HTML and styled with CSS to provide an appealing visual design.
